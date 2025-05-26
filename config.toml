@@ -1,0 +1,13 @@
+[basic]
+enable = true
+
+# 是否自动解析抖音链接
+is_auto_parse = true
+
+# 是否将解析结果打包为消息集合
+is_auto_pack = true
+
+# Http代理设置（用于获取真实链接发送卡片，如果家里有ipv6，可以设置为空）
+# 格式: http://用户名:密码@代理地址:代理端口
+# 例如：http://127.0.0.1:7890
+# http_proxy = "https://api.dudunas.top/api/qushuiyin?AppSecret=05d8b3355c4a43daf483a5229be74785&text=粘贴链接或者文本"
