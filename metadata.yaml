@@ -2,4 +2,4 @@ name: dy # 这是你的插件的唯一识别名。
 desc: 解析。 # 插件简短描述
 version: v1.0 # 插件版本号。格式：v1.1.1 或者 v1.1
 author: ss # 作者
-repo: https://github.com/Soulter/helloworld # 插件的仓库地址
+repo: https://github.com/sscjjo/astrbot_plugin_dy # 插件的仓库地址
